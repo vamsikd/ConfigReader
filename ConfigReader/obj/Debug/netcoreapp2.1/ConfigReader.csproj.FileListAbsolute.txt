@@ -1,0 +1,11 @@
+C:\Users\vamsi\source\repos\ConfigReader\bin\Debug\netcoreapp2.1\ConfigReader.deps.json
+C:\Users\vamsi\source\repos\ConfigReader\bin\Debug\netcoreapp2.1\ConfigReader.runtimeconfig.json
+C:\Users\vamsi\source\repos\ConfigReader\bin\Debug\netcoreapp2.1\ConfigReader.runtimeconfig.dev.json
+C:\Users\vamsi\source\repos\ConfigReader\bin\Debug\netcoreapp2.1\ConfigReader.dll
+C:\Users\vamsi\source\repos\ConfigReader\obj\Debug\netcoreapp2.1\ConfigReader.csprojAssemblyReference.cache
+C:\Users\vamsi\source\repos\ConfigReader\obj\Debug\netcoreapp2.1\ConfigReader.csproj.CoreCompileInputs.cache
+C:\Users\vamsi\source\repos\ConfigReader\obj\Debug\netcoreapp2.1\ConfigReader.AssemblyInfoInputs.cache
+C:\Users\vamsi\source\repos\ConfigReader\obj\Debug\netcoreapp2.1\ConfigReader.AssemblyInfo.cs
+C:\Users\vamsi\source\repos\ConfigReader\bin\Debug\netcoreapp2.1\ConfigReader.pdb
+C:\Users\vamsi\source\repos\ConfigReader\obj\Debug\netcoreapp2.1\ConfigReader.dll
+C:\Users\vamsi\source\repos\ConfigReader\obj\Debug\netcoreapp2.1\ConfigReader.pdb
